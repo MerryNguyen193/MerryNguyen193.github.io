@@ -1,3 +1,3 @@
-# [ title of post ]({% post_url First-Post-name-of-post %})
+# [ title of post ]({% post_url FirstPost-name-of-post %})
 
 Some content for the post.
