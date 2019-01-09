@@ -1,3 +1,3 @@
-# [ title of post ](first-post.md)
-Some content for the post.
+# [ Post 1 ](first-post.md)
+Some content for the post
 syttfmufyusyymthfj
