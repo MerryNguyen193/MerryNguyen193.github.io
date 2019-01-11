@@ -1,4 +1,4 @@
-# Blog Week 1
+# Week 1
 ## Topic and rationale
  Topic: Recharts http://recharts.org/en-US
  - Recharts is a charting library built on React components. 
