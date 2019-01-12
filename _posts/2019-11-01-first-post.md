@@ -5,7 +5,7 @@
  - Project 2 is for data visualization, and our developer (Marcia) may build the web by React, I can help her on the charts by using Recharts.
  
 ## Proposal for prototype 
-- Build 2 charts: linechart and barchart with data
+- Build 2 charts: linechart and piechart with data
 
 ## List of deliverables and tasks 
 - Tutorial 
