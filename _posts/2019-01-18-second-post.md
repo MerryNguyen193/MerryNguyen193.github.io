@@ -1,4 +1,7 @@
 # Week 2
 ## Progress Report
-## Details
-![Image1](../images/img1.png)
+- Reading documentation of Recharts.js
+- Set up the installation
+- Create react folder by terminal
+
+![Install react app](../images/install_react.png)
