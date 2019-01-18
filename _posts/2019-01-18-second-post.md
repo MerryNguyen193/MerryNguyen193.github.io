@@ -5,9 +5,12 @@
 ## Installation steps
 - Create react app and rechart folder by terminal
 ![Install react app](../images/install_react.png)
-![Install react app](../images/package.png)
+![Reachart folder](../images/package.png)
 - App.js: is the file to import all the charts
-![Install react app](../images/appjs.png)
+![App.js](../images/appjs.png)
+- Create new file called chart.js for an example of SimpleLineChart
+![Chart.js](../images/chartjs.png)
+
 
 
 
