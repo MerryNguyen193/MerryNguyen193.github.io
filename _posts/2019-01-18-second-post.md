@@ -1,8 +1,8 @@
 # Week 2
 ## Progress Report
-- Reading the documentation of Recharts.js
+- Read the documentation of Recharts.js
 - Set up the installation
-- Trying to apply a simple line chart from example of the Recharts website
+- Tried to apply a simple line chart from example of the Recharts website
 ## Installation steps
 - Create react app and rechart folder by terminal
 ![Install react app](../images/install_react_app.png)
@@ -17,7 +17,7 @@
 
 
 ## Next week plan
-- Continue making the linechart
+- Continue doing the linechart: fix the errors
 - Get familiar with how files are organized in the rechart folder
 
 
