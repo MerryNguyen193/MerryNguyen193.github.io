@@ -1,6 +1,6 @@
 # Week 2
 ## Progress Report
-- Reading documentation of Recharts.js
+- Reading the documentation of Recharts.js
 - Set up the installation
 - Trying to apply a simple line chart from example of the Recharts website
 ## Installation steps
@@ -9,13 +9,13 @@
 ![Reachart folder](../images/packagejs.png)
 - App.js: is the file to import all the components
 ![App.js](../images/app_original.png)
-- Create a new file called chart.js for an example of SimpleLineChart and remember to import in App.js
+- Create a new file called chart.js for an example of SimpleLineChart and remember to import it in App.js
 ![Chart.js](../images/chartjs.png)
 ![App.js with linechart](../images/appjs_linechart.png)
 
 ## Next week plan
 - Continue making the linechart
-- Get familiar with how files organize in rechart
+- Get familiar with how files are organized in the rechart folder
 
 
 
