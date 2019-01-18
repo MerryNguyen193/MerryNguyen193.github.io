@@ -2,6 +2,7 @@
 ## Progress Report
 - Reading documentation of Recharts.js
 - Set up the installation
+- Trying to apply a simple line chart from example of the Recharts website
 ## Installation steps
 - Create react app and rechart folder by terminal
 ![Install react app](../images/install_react.png)
@@ -10,7 +11,12 @@
 ![App.js](../images/app.png)
 - Create a new file called chart.js for an example of SimpleLineChart and remember to import in App.js
 ![Chart.js](../images/chartjs.png)
-![App.js](../images/appjs_linechart.png)
+![App.js with linechart](../images/appjs_linechart.png)
+
+## Next week plan
+- Continue making the linechart
+- Get familiar with how files organize in rechart
+
 
 
 
