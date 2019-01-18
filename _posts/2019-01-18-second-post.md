@@ -12,6 +12,9 @@
 - Create a new file called chart.js for an example of SimpleLineChart and remember to import it in App.js
 ![Chart.js](../images/chartjs.png)
 ![App.js with linechart](../images/appjs_linechart.png)
+- Cannot apply and need to fix the errors
+![Error](../images/error.png)
+
 
 ## Next week plan
 - Continue making the linechart
