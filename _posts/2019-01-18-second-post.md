@@ -7,7 +7,7 @@
 ![Install react app](../images/install_react.png)
 ![Reachart folder](../images/package.png)
 - App.js: is the file to import all the charts
-![App.js](../images/appjs.png)
+![App.js](../images/app.png)
 - Create a new file called chart.js for an example of SimpleLineChart, remember to import in App.js
 ![Chart.js](../images/chartjs.png)
 ![App.js](../images/appjs_linechart.png)
