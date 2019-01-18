@@ -2,6 +2,7 @@
 ## Progress Report
 - Reading documentation of Recharts.js
 - Set up the installation
-- Create react folder by terminal
-
+## Installation steps
+ Create react folder by terminal
 ![Install react app](../images/install_react.png)
+- 
