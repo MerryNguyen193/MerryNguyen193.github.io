@@ -2,7 +2,7 @@
 ## Progress Report
 - Read the documentation of Recharts.js
 - Set up the installation
-- Applied a simple line chart from the Recharts website
+- Applied a simple line chart from the Recharts website's example
 ## Installation steps
 - Create react app and rechart folder by terminal
 ![Install react app](../images/install_react_app.png)
