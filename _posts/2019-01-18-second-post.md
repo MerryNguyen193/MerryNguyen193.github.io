@@ -11,13 +11,11 @@
 ![App.js](../images/app_original.png)
 - Create a new file called chart.js for an example of SimpleLineChart and remember to import it in App.js
 ![Chart.js](../images/chartjs.png)
+![Chart.js](../images/linechart.png)
 ![App.js with linechart](../images/appjs_linechart.png)
 
-
-
-
 ## Next week plan
-- Continue doing the linechart: fix the errors
+- Customize the data for the chart
 - Get familiar with how files are organized in the rechart folder
 
 
