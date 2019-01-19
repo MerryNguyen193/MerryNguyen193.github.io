@@ -6,6 +6,7 @@
  
 ## Proposal for prototype 
 - Build 2 charts: linechart and piechart with data
+- Customize charts based on the concept of our group's project: the charts will show the level of different types of nutrients in users recipes
 
 ## List of deliverables and tasks 
 - Tutorial 
