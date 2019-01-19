@@ -10,9 +10,10 @@
 - App.js: is the file to import all the components
 ![App.js](../images/app_original.png)
 - Create a new file called chart.js for an example of SimpleLineChart and remember to import it in App.js
-![Chart.js](../images/chartjs.png)
 ![Chart.js](../images/linechart.png)
 ![App.js with linechart](../images/appjs_linechart.png)
+![LineChart Example](../images/example.png)
+
 
 ## Next week plan
 - Customize the data for the chart
