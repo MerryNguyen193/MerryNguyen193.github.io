@@ -2,7 +2,7 @@
 ## Progress Report
 - Read the documentation of Recharts.js
 - Set up the installation
-- Tried to apply a simple line chart from example of the Recharts website
+- Applied a simple line chart from the Recharts website
 ## Installation steps
 - Create react app and rechart folder by terminal
 ![Install react app](../images/install_react_app.png)
@@ -12,8 +12,8 @@
 - Create a new file called chart.js for an example of SimpleLineChart and remember to import it in App.js
 ![Chart.js](../images/chartjs.png)
 ![App.js with linechart](../images/appjs_linechart.png)
-- Cannot apply and need to fix the errors
-![Error](../images/error.png)
+
+
 
 
 ## Next week plan
