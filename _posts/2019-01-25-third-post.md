@@ -6,4 +6,7 @@
 
 ## Prototype for Tutorial
 - Piechart for the nutrients to show how much mg/g in the food recipe
+Reference from Yummly Website
 ![Yummly.js](../images/yummly.png)
+
+- Visualize by pie chart and can interact with the chart
