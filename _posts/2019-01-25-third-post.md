@@ -10,3 +10,4 @@ Reference from Yummly Website
 ![Yummly.js](../images/yummly.png)
 
 - Visualize by pie chart and can interact with the chart
+![Pie_recharts.js](../images/piechart.png)
