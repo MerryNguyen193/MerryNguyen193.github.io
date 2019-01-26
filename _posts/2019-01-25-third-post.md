@@ -5,4 +5,5 @@
 - Applied a simple line chart from the Recharts website's example
 
 ## Prototype for Tutorial
-- Piechart for nutrients
+- Piechart for the nutrients to show how much mg/g in the food recipe
+![Yummly.js](../images/yummly.png)
