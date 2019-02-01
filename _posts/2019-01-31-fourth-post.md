@@ -7,7 +7,7 @@
 - Added Tooltip atribute to show the label of each cell
 ![Pie_edit.js](../images/customize.png)
 - Customized the bar chart to show the level of 3 nutrients in a general guideline of one disease
-![Bar_chart.js](../images/barchart.png)
+![Bar_chart.js](../images/barchart1.png)
 
 ## Next week Plan
 - Tutorial for creating charts that will be used in our Project 2 's website 
