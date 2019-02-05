@@ -10,7 +10,7 @@
 - "my-app" can be replaced by a name of folder; for example, "tutorial" 
 - Go to "tutorial" folder: `cd tutorial`
 - Run the react: `npm start`
-![Install react](../images/react.png)
+![Install react](../images/create_react_folder.png)
 ![Install react](../images/tutorial_folder.png)
 ![Install react](../images/local.png)
 ![Install react](../images/sucessful.png)
