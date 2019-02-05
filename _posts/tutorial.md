@@ -6,7 +6,7 @@
 ## Prerequisite Knowledge
 ###### Installation React
 - Create react: https://github.com/facebook/create-react-app
-- Place the code in terminal : `npx create-react-app my-app`
+- Place the code in terminal : `npx create-react-app my-app`, "my-app" can be replaced by a name of folder; for example, "tutorial" 
 `cd my-app` 
 `npm start`
 ![Install react app](../images/install_react_app.png)
