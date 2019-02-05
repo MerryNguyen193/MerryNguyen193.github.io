@@ -15,3 +15,11 @@
 ![Install react](../images/local.png)
 ![Install react](../images/sucessful.png)
 
+## Required Readings
+- https://github.com/facebook/create-react-app
+- http://recharts.org/en-US/guide
+- http://recharts.org/en-US/guide/getting-started
+- http://recharts.org/en-US/guide/customize
+
+
+
