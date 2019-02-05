@@ -9,7 +9,7 @@
 - Place the code in terminal : `npx create-react-app my-app`, "my-app" can be replaced by a name of folder; for example, "tutorial" 
 `cd my-app` 
 `npm start`
-![Install react app](../images/install_react_app.png)
+![Install react](../images/react.png)
 ![Reachart folder](../images/packagejs.png)
 - App.js: is the file to import all the components
 ![App.js](../images/app_original.png)
