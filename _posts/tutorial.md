@@ -7,10 +7,11 @@
 ###### Installation React
 - Create react: https://github.com/facebook/create-react-app
 - Place the code in terminal : `npx create-react-app my-app` 
-- "my-app" can be replaced by a name of folder; for example, "tutorial_hongngoc_nguyen" 
-- Go to tutorial_hongngoc_nguyen folder: `cd tutorial_hongngoc_nguyen`
+- "my-app" can be replaced by a name of folder; for example, "tutorial" 
+- Go to "tutorial" folder: `cd tutorial`
+- Run the react: `npm start`
+![Install react](../images/react.png)
+![Install react](../images/tutorial_folder.png)
+![Install react](../images/local.png)
+![Install react](../images/sucessful.png)
 
-![Install react](../images/create_react.png)
-![Reachart folder](../images/packagejs.png)
-- App.js: is the file to import all the components
-![App.js](../images/app_original.png)
