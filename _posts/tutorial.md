@@ -4,7 +4,7 @@
 - Recharts is a charting library built on React components. 
 
 ## Prerequisite Knowledge
-###### Installation React
+###### React Installation 
 - Create react: https://github.com/facebook/create-react-app
 - Place the code in terminal : `npx create-react-app my-app` 
 - "my-app" can be replaced by a name of folder; for example, "tutorial" 
