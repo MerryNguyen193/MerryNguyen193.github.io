@@ -8,4 +8,4 @@
 
 - [Week 4](_posts/2019-01-31-fourth-post.md)
 
-- [Week 5](_posts/tutorial.md)
+- [Tutorial](_posts/tutorial.md)
