@@ -1,8 +1,7 @@
 # Week 6
 ## Evaluation
- Topic: Recharts http://recharts.org/en-US
- - Recharts is a charting library built on React components. 
- - Project 2 is for data visualization, and our developer (Marcia) may build the web by React, I can help her on the charts by using Recharts.
+- Meet the goals of creating charts that can be used in Project 2 (Data Visualization)
+- First two weeks were difficult since understanding 
  
 ## Lessons learned and unexpected challenges 
 - Build 2 charts: linechart and piechart with data
