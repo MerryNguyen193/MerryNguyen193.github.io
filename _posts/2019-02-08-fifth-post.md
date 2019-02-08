@@ -1,13 +1,18 @@
 # Week 6
 ## Evaluation
 - Meet the goals of creating charts that can be used in Project 2 (Data Visualization)
-- First two weeks were difficult since understanding 
+- 
+- 
  
-## Lessons learned and unexpected challenges 
-- Build 2 charts: linechart and piechart with data
-- Customize charts based on the concept of our group's project: the charts will show the level of different types of nutrients in users recipes
+## Lessons Learned and Unexpected Challenges 
+### Lessons Learned
+- Created pie and bar charts
+- Customized attributes of charts
+### Unexpected Challenges 
+- First two weeks were difficult since I needed to install and understand API of each type of charts
+- Dealed with many errors and tried to solve problem by seraching on internet
+- Customized attributes of charts that are similar with website mockups
 
-## Future work
-- Tutorial 
-- Weekly Blogs 
-- Prototype
+## Future Work
+- Apply in Project with data from back-end
+- Visulaize data by charts for future works
