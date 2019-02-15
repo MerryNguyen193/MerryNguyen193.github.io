@@ -2,14 +2,15 @@
 # Week 7
 ## Topic and rationale
  Topic: Invision https://www.invisionapp.com
- - Recharts is a charting library built on React components. 
- - Project 2 is for data visualization, and our developer (Marcia) may build the web by React, I can help her on the charts by using Recharts.
+ - Invision is the platform that creates the workflow for all designs
+ - Basically it is a tool for designer to make a prototype for their wireframes and mockups; for example, app design, web pages...
+ - Users can share in a group and easily get feedbacks for their prototype
+ - It works well with Sketch; however, users can upload any jpg, pnf, pdf files to start a prototype
  
 ## Proposal for prototype 
-- Build 2 charts: linechart and piechart with data
-- Customize charts based on the concept of our group's project: the charts will show the level of different types of nutrients in users recipes
+- Create a prototype for Project 2 website: Self Nourish
 
 ## List of deliverables and tasks 
-- Tutorial 
+- Presentation
 - Weekly Blogs 
 - Prototype
