@@ -1,7 +1,7 @@
 
 # Week 7
 ## Topic and rationale
- Topic: Invision https://www.invisionapp.com
+ Topic: [Invision](https://www.invisionapp.com)
  - Invision is the platform that creates the workflow for all designs
  - Basically it is a tool for designer to make a prototype for their wireframes and mockups; for example, app design, web pages...
  - Users can share in a group and easily get feedbacks for their prototype
