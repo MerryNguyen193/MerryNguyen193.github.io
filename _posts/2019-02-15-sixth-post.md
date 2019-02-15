@@ -1,7 +1,7 @@
 
 # Week 7
 ## Topic and rationale
- Topic: Recharts http://recharts.org/en-US
+ Topic: Invision https://www.invisionapp.com
  - Recharts is a charting library built on React components. 
  - Project 2 is for data visualization, and our developer (Marcia) may build the web by React, I can help her on the charts by using Recharts.
  
