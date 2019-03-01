@@ -13,3 +13,5 @@
 - [Week 6](_posts/2019-02-08-fifth-post.md)
 
 - [Week 7](_posts/2019-02-15-sixth-post.md)
+
+- [Week 9](_posts/2019-03-01-seventh-post.md)
