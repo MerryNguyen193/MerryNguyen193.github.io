@@ -10,5 +10,5 @@
 - No challenges in this project
 
 ## Future Work
-- Apply in future prototype. This is a useful tool for creating prototype and aimation.
-- Continue exploring other features of Invision to creat advanced mockups
+- Apply in future prototype. This is a useful tool for creating prototype and animation.
+- Continue exploring other features of Invision in order to create advanced mockups
